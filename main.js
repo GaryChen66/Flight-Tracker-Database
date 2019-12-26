@@ -1,4 +1,8 @@
-var data = require("./flight.json");
+var airports = require("./airport.json");
+var airline = require("./airline.json");
+var cities = require("./cities.json");
+var countries = require("./countries.json");
+//var flight = require("./flight.json");
 
-var airport = require("./airport.json");
-console.log(data);
+console.log("country_count", countries.length);
+console.log("city count", cities.length);

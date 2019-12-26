@@ -1,0 +1,22 @@
+body {
+    width: 1000px;
+    margin: 0 auto;
+}
+h1 {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#country_list {
+    width: 200;
+}
+
+#city_list {
+    margin-left: 50px;
+    width: 200px;
+}
+
+#airport_list {
+    margin-left: 50px;
+    width: 200px;
+}
